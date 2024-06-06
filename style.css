@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.boll{
+    position: relative;
+}
+.bol img{
+    margin-top: 80px;
+    margin-left: 35px;
+}
+.con{
+    position: absolute;
+    top: 20px;
+    left: 210px;
+}
+.girl{
+    position: absolute;
+    top: -99px;
+    left: 0;
+}
+.girl img{
+    width: 440px;
+}
+.jal{
+    position: absolute;
+    top: 330px;
+    left: 0;
+}
+.color{
+    font-size: 50px;
+}
+.colo{
+    background-color: #f5f3f3;
+}
+.jac{
+    width:82%;
+}
+.but{
+    background: linear-gradient(70deg, red, yellow);
+}
+.imge{
+    background-color: #F1F1F1;
+}
+.lal{
+    width: 100%;
+}
+.yellow{
+    width: 85%;
+}
+.black{
+    width: 79%;
+}
+.mt{
+    margin-top: 200px;
+    background-color: #cfcdcd;
+}
